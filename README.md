@@ -1,14 +1,5 @@
 # ESP32
 Welcome to the ESP32 repository! This repository is dedicated to projects, libraries, and resources related to the ESP32 microcontroller, a powerful and versatile chip widely used in IoT (Internet of Things) applications.
-
-Table of Contents
-  Introduction
-  Features
-  Getting Started
-  Installation
-  Usage
-  Examples
-  Contributing
   
 ## Introduction
 The ESP32 is a low-cost, low-power system on a chip (SoC) with integrated Wi-Fi and dual-mode Bluetooth. It is designed for a wide range of applications, including smart home devices, wearables, and industrial automation. This repository aims to provide a comprehensive collection of resources to help developers get started with the ESP32 and build innovative projects.
