@@ -22,4 +22,7 @@ This repository includes several example projects to help you get started:
   Blink: A simple LED blink example.
   Remote-Controlled Wi-Fi Car Robot.
 
+## Refrence
+  https://randomnerdtutorials.com/getting-started-with-esp32/
+
 Thank you for visiting the ESP32 repository! Happy coding!
