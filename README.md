@@ -19,8 +19,9 @@ To get started with the ESP32, you will need the following:
   
 ## Projects
 This repository includes several example projects to help you get started:
-  Blink: A simple LED blink example.
-  Remote-Controlled Wi-Fi Car Robot.
+  - Blink: A simple LED blink example.
+  - Remote-Controlled Wi-Fi Car Robot.
+  - Password Check for security system.
 
 ## Reference
   https://randomnerdtutorials.com/getting-started-with-esp32/
