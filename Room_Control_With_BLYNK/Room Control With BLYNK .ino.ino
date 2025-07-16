@@ -1,6 +1,5 @@
 /**
- * Comment :  
- *          - led1 variable with LDR Sensor
+ * Created by: Ziad Elmekawy
 **/
 
 #define BLYNK_TEMPLATE_ID "TMPL5Gia-jRsv"
