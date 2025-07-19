@@ -31,8 +31,8 @@ BlynkTimer timer;
 // WiFi and BLYNK info
 
 char auth[] = "6r0xbjnE2KIMgu2B6Zl572UvYy2-I46L";  // Blynk Auth Token
-char ssid[] = "Elmekawy";         // WiFi SSID
-char pass[] = "Llgh234@#$*";     // WiFi Password
+char ssid[] = "YOUR_SSID";         // WiFi SSID
+char pass[] = "YOUR_PASSWORD";     // WiFi Password
 
 /************************* Function proto-type *************************/
 void Read_LDR();
